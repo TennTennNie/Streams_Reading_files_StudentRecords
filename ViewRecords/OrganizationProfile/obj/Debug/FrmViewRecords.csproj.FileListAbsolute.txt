@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\OrganizationProfile\OrganizationProfile\bin\Debug\OrganizationProfile.exe.config
+C:\Users\Administrator\source\repos\OrganizationProfile\OrganizationProfile\bin\Debug\OrganizationProfile.exe
+C:\Users\Administrator\source\repos\OrganizationProfile\OrganizationProfile\bin\Debug\OrganizationProfile.pdb
+C:\Users\Administrator\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\FrmViewRecords.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\FrmViewRecords.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.frmRegistration.resources
+C:\Users\Administrator\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.FrmStudentRecord.resources
+C:\Users\Administrator\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.Properties.Resources.resources
+C:\Users\Administrator\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\FrmViewRecords.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\FrmViewRecords.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.exe
+C:\Users\Administrator\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\OrganizationProfile.pdb
